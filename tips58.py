@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Author: liangmengmeng
 # @Date:   2020-05-29 17:53:44
-# @Desc:  leetcoode 58题
+# @Desc:  leetcoode 58题 easy 字符串的分割
 
 def lengthOfLastWord(s):
         """
